@@ -12,14 +12,19 @@ This repository contains a literature review on how AI, specifically chatbots, c
 Research Questions
 
 1.Which machine learning algorithms are used for crop yield prediction?
+
 2.What features are used in crop yield prediction?
+
 3.What evaluation parameters and approaches are used?
+
 4.What are the challenges in crop yield prediction?
 
 Key Findings
 
-Algorithms: Neural Networks, Linear Regression, Random Forest, SVM
+1.Algorithms: Neural Networks, Linear Regression, Random Forest, SVM
+
 2.Features: Temperature, Soil Type, Rainfall, Crop Information, Humidity, pH-value, Solar Radiation
+
 3.Evaluation: RMSE, R², MAE, MSE
 
 Research Gap
