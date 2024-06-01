@@ -1,5 +1,5 @@
 # chatbot-crop-prediction-india
-#Literature Review on Chatbot Use in Predicting Foreign Crop Cultivation in India
+# Literature Review on Chatbot Use in Predicting Foreign Crop Cultivation in India
 
 Author: Dhillipkumar M
 
@@ -11,16 +11,16 @@ This repository contains a literature review on how AI, specifically chatbots, c
 
 Research Questions
 
-Which machine learning algorithms are used for crop yield prediction?
-What features are used in crop yield prediction?
-What evaluation parameters and approaches are used?
-What are the challenges in crop yield prediction?
+1.Which machine learning algorithms are used for crop yield prediction?
+2.What features are used in crop yield prediction?
+3.What evaluation parameters and approaches are used?
+4.What are the challenges in crop yield prediction?
 
 Key Findings
 
 Algorithms: Neural Networks, Linear Regression, Random Forest, SVM
-Features: Temperature, Soil Type, Rainfall, Crop Information, Humidity, pH-value, Solar Radiation
-Evaluation: RMSE, R², MAE, MSE
+2.Features: Temperature, Soil Type, Rainfall, Crop Information, Humidity, pH-value, Solar Radiation
+3.Evaluation: RMSE, R², MAE, MSE
 
 Research Gap
 
